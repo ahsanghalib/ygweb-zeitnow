@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Yaqoob Group Web portal Zeit Now Serverless API",
   "main": "api/index.ts",
-  "repository": "https://github.com/ahsanghalib/ygweb-zeitnow.git",
   "author": "M Ahsan Izhar <ahsanghalib@gmail.com>",
   "license": "MIT",
   "scripts": {
