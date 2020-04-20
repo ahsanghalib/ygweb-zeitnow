@@ -3,7 +3,7 @@
     "sourceMap": false,
     "target": "es5",
     "outDir": "./dist",
-    "baseUrl": "./src",
+    "baseUrl": "./api",
     "alwaysStrict": true,
     "noImplicitAny": true,
     "experimentalDecorators": true,
@@ -21,7 +21,7 @@
     "module": "commonjs"
   },
   "include": [
-    "src/**/*.ts"
+    "api/**/*.ts"
   ],
   "exclude": [
     "node_modules"
